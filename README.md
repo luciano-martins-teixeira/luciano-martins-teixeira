@@ -8,4 +8,3 @@
 - 📫 How to reach me: luciano.fisica@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: ...a lot of..
--->
