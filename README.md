@@ -1,10 +1,19 @@
-### Hi there 👋
+### Hello there 👋
 
+**Luciano Martins Teixeira**
 
-- 🔭 I’m currently working on Supply chain company, appling Data Simulation and Statistical Analysis;
-- 🌱 I’m currently learning Scikit-Learn applications;
-- 👯 I'm looking to collaborate on open projects to develop my skills in while contribute with community;
-- 💬 Ask me about Physics and make my day happy!
-- 📫 How to reach me: luciano.fisica@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: ...a lot of..
+MBA Business Management graduated in Analysis and Systems Development. Black Belt Six Sigma with knowledge in Statistical Process Control, programming, data science, financial market and fault diagnosis. Passionate about science, with strong theoretical and technical experience, good interpersonal and business skills for working in a team and achieve success.
+
+Experience and interest in the areas:
+
+- Optimization and computational modeling;
+- Predictive temporal series models;
+- Fault diagnosis;
+- Natural Language Processing;
+- Web Scrapping;
+
+### Some personal links
+
+📫 How to reach me:
+- luciano.fisica@gmail.com
+- https://www.linkedin.com/in/luciano-martins-teixeira/
