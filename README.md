@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 💻
 
 **Luciano Martins Teixeira**
 
