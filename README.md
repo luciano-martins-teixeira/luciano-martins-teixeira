@@ -11,6 +11,8 @@ Experience and interest in the areas:
 - Fault diagnosis;
 - Natural Language Processing;
 - Web Scrapping;
+- Financial Market
+- Physics
 
 ### Some personal links
 
