@@ -18,5 +18,4 @@ Experience and interest in the areas:
 
 📫 How to reach me:
 - luciano.fisica@gmail.com
-- Discord : LucianoMT#4811
 - https://www.linkedin.com/in/luciano-martins-teixeira/
